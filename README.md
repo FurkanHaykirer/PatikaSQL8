@@ -156,3 +156,8 @@ WHERE name = 'Beyza' OR name = 'Furkan'
 
 DELETE FROM employee
 WHERE name LIKE '_c%'
+
+
+
+
+https://app.patika.dev/furkanhaykirer
